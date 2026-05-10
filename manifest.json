@@ -1,0 +1,16 @@
+{
+  "name": "Stellar Blitz",
+  "short_name": "StellarBlitz",
+  "description": "Endless space shooter game",
+  "start_url": "/stellarblitz11/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
